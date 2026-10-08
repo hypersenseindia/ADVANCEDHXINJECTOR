@@ -1,0 +1,27 @@
+HYPERSENSEINDIA PROPRIETARY LICENSE
+Copyright (c) 2026 HYPERSENSEINDIA
+All rights reserved.
+
+1. PERMITTED USE
+   This software is provided for educational, red-team, and
+   authorized lab testing purposes only.
+
+2. RESTRICTIONS
+   You may NOT use this software on any system you do not own
+   or lack explicit written permission to test.
+   You may NOT redistribute, sublicense, or sell this software
+   without prior written consent from HYPERSENSEINDIA.
+
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT.
+
+4. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL HYPERSENSEINDIA BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+   THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permissions, contact: HYPERSENSEINDIA

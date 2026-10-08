@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build
+build/
+dist/
+*.spec
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Tool artifacts
+sys.cache
+*.mui
+Caches/
