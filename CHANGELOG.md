@@ -1,0 +1,56 @@
+```
+## 📄 `CHANGELOG.md`
+```
+
+```
+```markdown
+```
+
+```
+# Changelog
+```
+
+```
+All notable changes to **ADVANCEDHXINJECTOR** will be documented in this file.
+```
+
+```
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic
+Versioning](https://semver.org/spec/v2.0.0.html).
+```
+
+```
+## [1.0.0.0] — 2026-10-08
+```
+
+# `### Added` 
+
+- `Initial release of ADVANCEDHXINJECTOR` 
+
+- `Encrypted on-disk staging (`sys.cache`, XOR + hidden/system attrs)` 
+
+- `Decrypt-in-place injection flow` 
+
+- `Indirect syscall engine (dynamic SSN resolution + ntdll syscall gadget)` 
+
+- `APC injection across all target threads (`NtQueueApcThread`)` 
+
+- `Thread fallback (`NtCreateThreadEx`)` 
+
+- `AMSI patch (`AmsiScanBuffer` → `AMSI_RESULT_CLEAN`)` 
+
+- `ETW patch (`EtwEventWrite` → `ret`)` 
+
+- `Hotkey interface: F7 / F8 / F9 / F10` 
+
+- `Multi-target support with custom process names` 
+
+- `Auto-install of Python dependencies (`psutil`, `keyboard`)` 
+
+# `### Notes` 
+
+- `Requires Administrator privileges` 
+
+- `Windows x64 only` 
+
