@@ -15,7 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - Initial release of ADVANCEDHXINJECTOR
-- Encrypted on-disk staging (`sys.cache`, XOR + hidden/system attrs)
+- Encrypted on-disk staging (`sys.cache`, XOR + HX ENCRYPTION™)
 - Decrypt-in-place injection flow
 - Indirect syscall engine (dynamic SSN resolution + ntdll syscall gadget)
 - APC injection across all target threads (`NtQueueApcThread`)
