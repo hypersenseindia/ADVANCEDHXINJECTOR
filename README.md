@@ -8,7 +8,7 @@ A stealth-focused DLL injector built around **indirect syscalls** and **encrypte
 
 ## ✨ Features
 
-- **Encrypted Payload Staging** — payload stored as `sys.cache` (XOR-encrypted, hidden + system attributes) inside `C:\ProgramData\Microsoft\Windows\Caches`
+- **Encrypted Payload Staging** — payload stored as `sys.cache` (XOR-encrypted, HX ENCRYPTION™ ) inside `C:\ProgramData\Microsoft\Windows\Caches`
 - **Decrypt-in-Place Injection** — on F9, the encrypted blob is decrypted to a plain x64 DLL and loaded via `LoadLibraryA`
 - **Indirect Syscalls** — dynamically resolves SSNs and builds stubs from `ntdll.dll` to bypass userland hooks
 - **APC Injection (Primary)** — queues `LoadLibraryA` across *all* threads via `NtQueueApcThread`
