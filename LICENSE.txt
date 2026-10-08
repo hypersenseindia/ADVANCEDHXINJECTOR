@@ -1,5 +1,5 @@
 HYPERSENSEINDIA PROPRIETARY LICENSE
-Copyright (c) 2026 HYPERSENSEINDIA
+Copyright (c) 2026 HypersenseIndia.Technologies
 All rights reserved.
 
 1. PERMITTED USE
